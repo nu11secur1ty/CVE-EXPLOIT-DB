@@ -1,0 +1,7 @@
+version: '3.1'
+services:
+  app:
+    container_name: directory-traversal-http-live-simulator
+    build: .
+    ports:
+      - '8080:8080'
