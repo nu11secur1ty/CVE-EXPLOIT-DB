@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "http-live-simulator": "1.0.6"
+    "http-live-simulator": "1.0.7"
   }
 }
